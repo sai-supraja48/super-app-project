@@ -6,7 +6,7 @@ A multi-feature React application that combines user registration, category sele
 
 Add your deployed link here:
 
-https://your-netlify-app.netlify.app/
+grand-puffpuff-6e9d59.netlify.app
 
 ---
 
@@ -92,7 +92,7 @@ src
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/super-app.git
+git clone https://github.com/sai-supraja48/super-app-project
 ```
 
 Move into project
