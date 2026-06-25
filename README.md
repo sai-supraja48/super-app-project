@@ -14,7 +14,7 @@ https://your-netlify-app.netlify.app/
 
 Add your GitHub repository link here:
 
-https://github.com/your-username/super-app
+https://github.com/sai-supraja48/super-app-project
 
 ---
 
